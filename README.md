@@ -26,8 +26,9 @@
 
 ## 📅 *DATABASES*
 
-[![SQL](https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "SQL")][repo]
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 
 ## 🎯 *PROGRAMMING LANGUAGES*
@@ -35,7 +36,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white "TypeScript")][repo]
 [![Cpp](https://img.shields.io/badge/CPP-007ACC?style=for-the-badge&logo=Cpp&logoColor=white "Cpp")][repo]
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="" />
 
 
 ## 🛠️ *DEVOPS TOOLS*

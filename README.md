@@ -3,7 +3,7 @@
  
 ## Consistency Graph:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zafeerwains&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+[![GitHub Streak](https://github.com/zafeerwains")](https://git.io/streak-stats)
 
 
 ## 🕸️ *WEB DEV TOOLS*

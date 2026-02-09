@@ -66,11 +66,11 @@ Currently building:
 
 ## 📊 GitHub Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zafeerwains&theme=highcontrast)
+![GitHub Streak](https://streak-stats.demolab.com?user=zafeerwains&theme=highcontrast&hide_border=true)
 
-![Zafeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafeerwains&show_icons=true&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafeerwains&show_icons=true&theme=highcontrast&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafeerwains&layout=compact&theme=highcontrast)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafeerwains&layout=compact&theme=highcontrast&hide_border=true)
 
 ---
 

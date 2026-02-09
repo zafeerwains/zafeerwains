@@ -68,10 +68,6 @@ Currently building:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zafeerwains&theme=highcontrast&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafeerwains&show_icons=true&theme=highcontrast&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafeerwains&layout=compact&theme=highcontrast&hide_border=true)
-
 ---
 
 ## 🎯 Professional Focus
